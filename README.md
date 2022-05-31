@@ -1,5 +1,7 @@
 # Intention and NER Modeling
 
+## ATIS = Automatic Terminal Information Service
+
 ## Meeting Days
 	Mondays 
 	Thursdays
