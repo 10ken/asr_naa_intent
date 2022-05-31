@@ -1,21 +1,18 @@
-# asr_naa_intent
+# Intention and NER Modeling
 
 ## Meeting Days
 	Mondays 
 	Thursdays
 
 ## Dataset
-https://github.com/jim-schwoebel/voice_datasets
+atis - from Nassim
 
 
-## May 20, 2022 Tasks:
-Data Cleaning
-- Alexei
+## May 31, 2022 Tasks:
+Modelling Approaches
+	- Alexei
+	- Ken
+	- Mingchen
 
-Source Data
-- Adam 
-- Derek
-
-Model
-- Mingchen
-- Ken
+NLG Approach
+	- Derek
