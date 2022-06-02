@@ -1,5 +1,4 @@
 # Intention and NER Modeling
-..
 
 ## ATIS = Automatic Terminal Information Service
 
@@ -8,29 +7,29 @@
 	Thursdays
 
 ## Deadlines:
-June 2 - 24: Developed Model
+### June 2 - 24: Developed Model
 
-June 27 - July 8: Deployment
+### June 27 - July 8: Deployment
 
-Mid-July: Presentation
+### Mid-July: Presentation
 
 
 ## Dataset
-atis - from Nassim
+atis 
 
 ## June 2, 2022
 - We'll all contribute to tokenized text QA
 
-Data ~ encode, tokenize
+Data and Modelling <br>
 	- Alexei
 
-NER
+NER  <br>
 	-  Mingchen
 
-Multi Task Learning
+Multi Task Learning  <br>
 	- Ken
 
-NLG
+NLG <br>
 	- Derek
 
 ## May 31, 2022 Tasks:
