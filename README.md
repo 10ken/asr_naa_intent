@@ -7,9 +7,31 @@
 	Mondays 
 	Thursdays
 
+## Deadlines:
+June 2 - 24: Developed Model
+
+June 27 - July 8: Deployment
+
+Mid-July: Presentation
+
+
 ## Dataset
 atis - from Nassim
 
+## June 2, 2022
+- We'll all contribute to tokenized text QA
+
+Data ~ encode, tokenize
+	- Alexei
+
+NER
+	-  Mingchen
+
+Multi Task Learning
+	- Ken
+
+NLG
+	- Derek
 
 ## May 31, 2022 Tasks:
 Modelling Approaches
