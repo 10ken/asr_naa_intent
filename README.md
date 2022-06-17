@@ -1,5 +1,3 @@
-testing git
-
 # Intention and NER Modeling
 
 ## ATIS = Automatic Terminal Information Service
